@@ -5,4 +5,4 @@ const cliente = {
     telefone: [11911111111, 22922222222]
   };
 
-  console.log(cliente.telefone/*[0], [1]*/);
+console.log(cliente.telefone/*[0], [1]*/);
