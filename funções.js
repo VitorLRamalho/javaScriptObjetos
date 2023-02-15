@@ -12,6 +12,6 @@ const cliente = {
         console.log(`Pagamento realizado. Novo saldo: ${this.saldo}`);
       }
     },
-  };
-  
-  cliente.efetuaPagamento(250);
+};
+
+cliente.efetuaPagamento(250);
